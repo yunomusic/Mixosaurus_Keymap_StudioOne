@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList title="MxA_DEFAULT">
+	<Music.PitchName pitch="12" name="T14&apos;&apos; Tip" color="FF2A79FF" scorePitch="117" notehead="nhdX"/>
+	<Music.PitchName pitch="13" name="T14&apos;&apos; RS" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="14" name="T14&apos;&apos; Rim" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="15" name="T12&apos;&apos; Tip" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="16" name="T12&apos;&apos; RS" color="FF1C6AF0" scorePitch="93"/>
+	<Music.PitchName pitch="17" name="T12&apos;&apos; Rim" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="18" name="T10&apos;&apos; Tip" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="19" name="T10&apos;&apos; RS" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="20" name="T10&apos;&apos; Rim" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="21" name="T8&apos;&apos; Tip" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="22" name="T8&apos;&apos; RS" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="23" name="T8&apos;&apos; Rim" color="FF2A79FF" scorePitch="93"/>
+	<Music.PitchName pitch="24" name="KD SOFT" color="FF2ACAFF" scorePitch="93"/>
+	<Music.PitchName pitch="25" name="KD MEDIUM" color="FF2ACAFF" scorePitch="93"/>
+	<Music.PitchName pitch="26" name="KD WOOD" color="FF2ACAFF" scorePitch="93"/>
+	<Music.PitchName pitch="27" name="KD COIN" color="FF2ACAFF" scorePitch="93"/>
+	<Music.PitchName pitch="28" name="STICK CLICK" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="29" name="SD OPEN TIP OUT" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="30" name="SD OPEN TIP HW OUT" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="31" name="SD OPEN TIP CENTER" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="32" name="SD OPEN RS OUT" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="33" name="SD OPEN RS HW OUT" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="34" name="SD OPEN RS CENTER" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="35" name="SD OPEN RIM" color="FF46C21C" scorePitch="93"/>
+	<Music.PitchName pitch="36" name="SD MF TIP OUT" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="37" name="SD MF TIP HW OUT" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="38" name="SD MF TIP CENTER" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="39" name="SD MF RS OUT" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="40" name="SD MF RS HW OUT" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="41" name="SD MF RS CENTER" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="42" name="SD MF RIM" color="FF1CF086" scorePitch="93"/>
+	<Music.PitchName pitch="43" name="SD DEATH TIP" color="FF306836" scorePitch="93"/>
+	<Music.PitchName pitch="44" name="SD DEATH RS" color="FF306836" scorePitch="93"/>
+	<Music.PitchName pitch="45" name="SS FULL" scorePitch="93"/>
+	<Music.PitchName pitch="46" name="SS CRISP" scorePitch="93"/>
+	<Music.PitchName pitch="47" name="SS CLICK" scorePitch="93"/>
+	<Music.PitchName pitch="48" name="HH CLOSE TIP" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="49" name="HH CLOSE SHANK" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="50" name="HH CLOSE CRASH" color="FF2AFFE5" scorePitch="108" notehead="nhdX"/>
+	<Music.PitchName pitch="51" name="HH OPEN&lt;TIP" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="52" name="HH OPEN&lt;SHANK" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="53" name="HH OPEN&lt;CRASH" color="FF2AFFE5" scorePitch="110" notehead="nhdX"/>
+	<Music.PitchName pitch="54" name="HH OPEN=TIP" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="55" name="HH OPEN=SHANK" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="56" name="HH OPEN=CRASH" color="FF2AFFE5" scorePitch="112" notehead="nhdX"/>
+	<Music.PitchName pitch="57" name="HH FOOT&gt;" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="58" name="HH FOOT&gt;&lt;" color="FF2AFFE5" scorePitch="93"/>
+	<Music.PitchName pitch="59" name="HH OFF" color="FF2AFFE5" scorePitch="93" flags="show"/>
+	<Music.PitchName pitch="60" name="CRASH18&apos;&apos;TIP" color="FF1B52B2" scorePitch="107" notehead="nhdX"/>
+	<Music.PitchName pitch="61" name="CRASH18&apos;&apos;SHANK" color="FF1B52B2" scorePitch="105" notehead="nhdX"/>
+	<Music.PitchName pitch="62" name="CRASH18&apos;&apos;CRASH" color="FF1B52B2" scorePitch="98" notehead="nhdX"/>
+	<Music.PitchName pitch="63" name="CRASH18&apos;&apos;BELL TIP" color="FF1B52B2" scorePitch="96" notehead="nhDi"/>
+	<Music.PitchName pitch="64" name="CRASH18&apos;&apos;BELL SHA" color="FF1B52B2" scorePitch="96" notehead="nhDi"/>
+	<Music.PitchName pitch="65" name="CRASH18&apos;&apos;MU_SHORT" color="FF1B52B2" scorePitch="101" notehead="nhdX"/>
+	<Music.PitchName pitch="66" name="CRASH18&apos;&apos;MU_LONG" color="FF1B52B2" scorePitch="100" notehead="nhdX"/>
+	<Music.PitchName pitch="67" name="CRASH18&apos;&apos;OFF" color="FF1B52B2" scorePitch="103" notehead="nhdX"/>
+	<Music.PitchName pitch="68" name="CRASH15&apos;&apos;CRASH" color="FF1B8CB2" scorePitch="83" notehead="nhdX"/>
+	<Music.PitchName pitch="69" name="CRASH15&apos;&apos;MU_SHORT" color="FF1B8CB2" scorePitch="86" notehead="nhdX"/>
+	<Music.PitchName pitch="70" name="CRASH15&apos;&apos;MU_LONG" color="FF1B8CB2" scorePitch="84" notehead="nhdX"/>
+	<Music.PitchName pitch="71" name="CRASH15&apos;&apos;OFF" color="FF1B8CB2" scorePitch="88" notehead="nhdX"/>
+	<Music.PitchName pitch="72" name="CRASH17&apos;&apos;TIP" color="FF1BB2A1" scorePitch="96" notehead="nhdX"/>
+	<Music.PitchName pitch="73" name="CRASH17&apos;&apos;SHANK" color="FF1BB2A1" scorePitch="95" notehead="nhdX"/>
+	<Music.PitchName pitch="74" name="CRASH17&apos;&apos;CRASH" color="FF1BB2A1" scorePitch="89" notehead="nhdX"/>
+	<Music.PitchName pitch="75" name="CRASH17&apos;&apos;BELLTIP" color="FF1BB2A1" scorePitch="88" notehead="nhDi"/>
+	<Music.PitchName pitch="76" name="CRASH17&apos;&apos;BELL SHA" color="FF1BB2A1" scorePitch="88" notehead="nhDi"/>
+	<Music.PitchName pitch="77" name="CRASH17&apos;&apos;MU_SHORT" color="FF1BB2A1" flags="hide"/>
+	<Music.PitchName pitch="78" name="CRASH17&apos;&apos;MU_LONG" color="FF1BB2A1" scorePitch="91" notehead="nhdX"/>
+	<Music.PitchName pitch="79" name="CRASH17&apos;&apos;OFF" color="FF1BB2A1" scorePitch="93" notehead="nhdX"/>
+	<Music.PitchName pitch="80" name="STICK CLICK" flags="hide"/>
+	<Music.PitchName pitch="81" name="ALL CYMBAL OFF" scorePitch="93"/>
+	<Music.PitchName pitch="82" name="ALL CYMBAL OFF" flags="hide"/>
+	<Music.PitchName pitch="84" name="RIDE L TIP OUT" color="FFB26E37" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="85" name="RIDE L TIP IN" color="FFB26E37" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="86" name="RIDE L SHANK" color="FFB26E37" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="87" name="RIDE L BELL TIP" color="FFB26E37" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="88" name="RIDE L BELL SHANK" color="FFB26E37" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="89" name="RIDE L OFF" color="FFB26E37" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="90" name="RIDE H TIP OUT" color="FFA8481E" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="91" name="RIDE H TIP IN" color="FFA8481E" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="92" name="RIDE H SHA" color="FFA8481E" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="93" name="RIDE H BELL TIP" color="FFA8481E" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="94" name="RIDE H BELL SHANK" color="FFA8481E" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="95" name="RIDE H OFF" color="FFB2401B" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="96" name="CHINA TIP" color="FF2A2AFF" scorePitch="117" notehead="nhCX"/>
+	<Music.PitchName pitch="97" name="CHINA CRASH" color="FF2A2AFF" scorePitch="81" notehead="nhdX"/>
+	<Music.PitchName pitch="98" name="CHINA MU SHORT" color="FF2A2AFF" scorePitch="117" notehead="nhCX"/>
+	<Music.PitchName pitch="99" name="CHINA MU LONG" color="FF2A2AFF" scorePitch="117" notehead="nhCX"/>
+	<Music.PitchName pitch="100" name="CHINA OFF" color="FF2A2AFF" scorePitch="117" notehead="nhCX"/>
+	<Music.PitchName pitch="101" name="SPLASH CRASH" color="FFA8321E" scorePitch="113" notehead="nhdX"/>
+	<Music.PitchName pitch="102" name="SPLASH CHOKED" color="FFA8321E" scorePitch="117" notehead="nhDi"/>
+	<Music.PitchName pitch="103" name="SPLASH MU SHORT" color="FFA8321E" scorePitch="117" notehead="nhDi"/>
+	<Music.PitchName pitch="104" name="SPLASH MU LONG" color="FFA8321E" scorePitch="117" notehead="nhDi"/>
+	<Music.PitchName pitch="105" name="SPLASH OFF" color="FFA8321E" scorePitch="117" notehead="nhDi"/>
+	<Music.PitchName pitch="106" name="C18&apos;&apos;MALLET" scorePitch="93"/>
+	<Music.PitchName pitch="108" name="C15&apos;&apos;MALLET" scorePitch="93"/>
+	<Music.PitchName pitch="110" name="C17&apos;&apos;MALLET" scorePitch="93"/>
+	<Music.PitchName pitch="112" name="RIDE L MALLET" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="114" name="RIDE H MALLET" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="116" name="CHINA MALLET" scorePitch="117" notehead="nhCX"/>
+	<Music.PitchName pitch="118" name="SPLASH MALLET" scorePitch="117" notehead="nhDi"/>
+</Music.PitchNameList>
